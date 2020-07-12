@@ -1,0 +1,84 @@
+{
+    "questions": [
+        {
+            "question": "Who was the Lord of Winterfell in the show beginning?",
+            "options": [
+                "Jon Snow",
+                "Benjen Stark",
+                "Ned Stark",
+                "Robb Stark"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Which house is the most powerful in Westeros south?",
+            "options": [
+                "Lannisters",
+                "Tyrells",
+                "Martell",
+                "Targaryens"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Who stabbed the Mad king?",
+            "options": [
+                "Robert Baratheon",
+                "Ned Stark",
+                "Jaime Lannister",
+                "Jon Arryn"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Under whose command the Lannisters won the Battle of Blackwater",
+            "options": [
+                "Joffrey Baratheon",
+                "The Hound",
+                "Tyrion Lannister",
+                "Cersei Lannister"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Who did Arya Stark meet in Bravos?",
+            "options": [
+                "Jon Snow",
+                "Jacqen H'hgar",
+                "Brienne of Tarth",
+                "Daenerys Targaryen"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What house did Ser Jorah belong to?",
+            "options": [
+                "Targaryen",
+                "Freys",
+                "Boltons",
+                "Mormonts"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "How did Robb Stark die?",
+            "options": [
+                "Got killed in the War of the five kings",
+                "Stabbed by his own mother Catelyn",
+                "Killed in the Red Wedding",
+                "Killed by his horse"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Who was the daughter of Stannis?",
+            "options": [
+                "Princess Shireen",
+                "Princess Lyanna",
+                "Princess Arya",
+                "Princess Myrcella"
+            ],
+            "answer": 1
+        }
+    ]
+}
