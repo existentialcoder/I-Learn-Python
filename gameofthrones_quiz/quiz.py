@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import sys
 import json
 import random
 
@@ -9,7 +10,10 @@ def get_questions():
     return questions_obj['questions']
 
 def print_choices(choices):
+    # enumerate() is used to
+    # extract index value from the list
     for index, choice in enumerate(choices):
+        print(choice)
         print('{}.{}'.format(index + 1, choice), '\n')
 
 def is_correct(ans, user_answer):
@@ -38,7 +42,6 @@ def start_quiz():
         else:
             print('✘')
     print(get_greeting_msg(points, len(questions)))
-    
 
 if __name__ == '__main__':
     canPlay = input('Press y/Y to play the Game of Thrones quiz 🦁\n')
