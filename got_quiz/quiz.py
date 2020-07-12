@@ -4,7 +4,7 @@ import json
 import random
 
 def get_questions():
-    questions_file = open('/home/shrav/Desktop/workspace/pythoooonnn/got_quiz/quiz.json')
+    questions_file = open('./quiz.json')
     questions_obj = json.load(questions_file)
     questions_file.close()
     return questions_obj['questions']
